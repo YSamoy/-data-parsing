@@ -60,3 +60,5 @@ Geek University Data Science
 <a href="https://github.com/YSamoy/Geekbrains_HW-data-parsing/blob/main/7_%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_Selenium_%D0%B2_Python.ipynb">Решение</a>
 </p>
 
+
+![parse](https://user-images.githubusercontent.com/102718506/223711568-706b0b59-498d-4d6f-932c-a9e0f03ba216.jpg)
